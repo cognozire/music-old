@@ -1,0 +1,5 @@
+joblib
+Flask
+numpy
+pandas
+gunicorn
